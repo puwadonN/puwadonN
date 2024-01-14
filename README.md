@@ -17,7 +17,8 @@
 
 <div>
     <h3 align="left">💡 A Quote:</h3>
-  [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+## 💡 A Quote:
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 <div>
   <h3 align="left">When I'm AFK:</h3>
