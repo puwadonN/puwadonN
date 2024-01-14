@@ -1,7 +1,6 @@
 [![Hello World, I'm Puwadon!](assets/header.png)](https://github.com/puwadonN)
 
-<h1 align="center">Hi 👋, I'm Puwadon</h1>
-<h3 align="center">A passionate Software Engineer from Thailand</h3>
+<h1 align="center">A passionate Software Engineer from Thailand</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puwadon&label=Profile%20views&color=0e75b6&style=flat" alt="puwadon" /> </p>
 
